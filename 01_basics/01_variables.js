@@ -9,6 +9,7 @@ let accountState;
 accountEmail = "blah@blah.com"
 accountPassword = "Lmao"
 accountCity = "Mumbai"
+accountState = "Telanagana"
 console.log(accountId);
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
 

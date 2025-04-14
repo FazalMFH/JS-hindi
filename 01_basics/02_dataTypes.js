@@ -9,9 +9,10 @@ console.log(3 + 3)
  let name  = "mfh"
  let age = 17
  let isLoggedIn = false
+ let color;
 
  // number => 2 to power 53
- // bignt
+ // bigint
  // string => ""
  // boolean => true/false
  // null => standalone value
@@ -22,4 +23,7 @@ console.log(3 + 3)
  // object 
  console.log(typeof undefined);
  console.log(typeof null);
+ console.log(typeof age);
+ console.log(typeof isLoggedIn);
+ console.log(typeof color);
  
